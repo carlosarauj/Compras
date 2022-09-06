@@ -1,0 +1,25 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  margin: 
+}
+span{
+  color: yellow;
+}
+div{
+  color: white;
+  background-color: #111;
+  border-style:dashed;
+  border-color: #111;
+  padding: 10px;
+  border-radius: 10px;
+}
+a{
+  background-color: yellow;
+  color: black;
+  padding: 5px;
+  border-radius: 4px;
+  text-decoration: none;
+}
